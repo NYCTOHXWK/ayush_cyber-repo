@@ -1,0 +1,6 @@
+exhibit_id,source,observed_item,location,username,assessment
+EXH-11,device01_skimmer,4927183654027163 / Rahul Mehra,Connaught Place New Delhi,rahul_cp07,Synthetic test record
+EXH-11,device01_skimmer,5384209761483529 / Priya Nair,Karol Bagh New Delhi,priya_kb22,Synthetic test record
+EXH-12,device02_phone,Samsung Galaxy S24 / 02:8D:91:44:2E:70,Connaught Place New Delhi,rahul_cp07,Device correlation test
+EXH-12,device02_phone,iPhone 15 / 02:72:4C:1A:63:08,Sector 18 Noida,arjun_s18,Device correlation test
+EXH-12,device02_phone,Google Pixel 8 / 02:5E:33:7A:20:91,Banjara Hills Hyderabad,neha_bh08,Device correlation test
