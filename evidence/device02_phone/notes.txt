@@ -1,0 +1,9 @@
+Device model: Samsung Galaxy S24
+Primary alias: rahul_cp07
+Observed location: Connaught Place, New Delhi
+Bluetooth MAC: 02:8D:91:44:2E:70
+Related test record: 4927183654027163
+Holder name in test dataset: Rahul Mehra
+Secondary location reference: Sector 18, Noida
+
+All names, aliases, numeric payment references and MAC addresses are synthetic.
