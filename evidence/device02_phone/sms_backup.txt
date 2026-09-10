@@ -1,0 +1,8 @@
+SMS BACKUP — EXH-12
+
+2026-09-04 11:24 | From: rahul_cp07 | "Meet near Rajiv Chowk Metro. Bring the reader."
+2026-09-04 11:27 | From: priya_kb22 | "Use the Sector 18 test set only."
+2026-09-04 11:31 | From: arjun_s18 | "The sample record 6219470382519462 is in the export."
+
+Location references: Rajiv Chowk / Connaught Place, New Delhi; Karol Bagh, New Delhi; Sector 18, Noida.
+All identities and numeric payment references are synthetic.
